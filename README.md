@@ -1,2 +1,2 @@
-These are the instruction for this repo
+These are the instructions for this repo
 Use responsibly
